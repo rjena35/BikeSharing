@@ -38,3 +38,4 @@ In the set below, we can see that the heatmap indicates that more male subscribe
 ## Summary
 The results show to bike sharing is very popular, especially among males in big cities. We can conduct further analysis by surveying the reason behind bike usage, whether for work commute, or for pleasure. Overall, a bike sharing service would be a huge success
 
+[link to dashboard](https://public.tableau.com/app/profile/richard.jena/viz/CitiBikeTripDatabyGender/BikeTripsbyGender?publish=yes)
